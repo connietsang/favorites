@@ -1,0 +1,22 @@
+body {
+  background: #FF9A9A;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1,
+h2 {
+  margin: 20px;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+img {
+  width: 50%;
+  margin: 10px;
+}
